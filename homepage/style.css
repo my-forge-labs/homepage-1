@@ -1,0 +1,8 @@
+.styles__button {
+    width: 100%; 
+    border: none;
+    background-color: limegreen;
+    color: red;
+    padding: 10px;
+    border-radius: 5px
+}
